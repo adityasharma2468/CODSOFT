@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">🚢 Titanic Survival Prediction</h1>
 
 <p align="center">
@@ -10,6 +9,14 @@
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?style=for-the-badge&logo=pandas">
   <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username-titanic&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E3C72&height=120&section=header" width="100%"/>
 </p>
 
 ---
@@ -25,6 +32,10 @@ The workflow includes:
 - ⚙️ Feature Engineering
 - 🤖 Model Training
 - 📈 Performance Evaluation
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+</p>
 
 ---
 
@@ -52,6 +63,10 @@ Titanic-Survival-Prediction/
 
 # 🛠️ Technologies Used
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
 - Python
 - Pandas
 - NumPy
@@ -63,19 +78,19 @@ Titanic-Survival-Prediction/
 
 # 📊 Dataset Features
 
-- PassengerId
-- Pclass
-- Name
-- Sex
-- Age
-- SibSp
-- Parch
-- Fare
-- Embarked
+| Feature | Description |
+|---------|-------------|
+| PassengerId | Unique ID of passenger |
+| Pclass | Ticket class (1st/2nd/3rd) |
+| Name | Passenger name |
+| Sex | Gender |
+| Age | Age in years |
+| SibSp | Siblings/spouses aboard |
+| Parch | Parents/children aboard |
+| Fare | Ticket fare |
+| Embarked | Port of embarkation |
 
-Target:
-
-- Survived
+🎯 **Target:** `Survived`
 
 ---
 
@@ -90,6 +105,10 @@ Target:
 ✔ Age Distribution
 
 ✔ Correlation Heatmap
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+</p>
 
 ---
 
@@ -108,7 +127,13 @@ Target:
 
 ✅ Random Forest Accuracy: **78.32%**
 
-Overall Accuracy: **~78%**
+🏆 Overall Accuracy: **~78%**
+
+```mermaid
+pie title Model Accuracy Comparison
+    "Logistic Regression" : 7972
+    "Random Forest" : 7832
+```
 
 ---
 
@@ -154,11 +179,11 @@ Titanic_Survival.ipynb
 
 # 📈 Future Improvements
 
-- Hyperparameter Tuning
-- XGBoost Model
-- LightGBM
-- Streamlit Web App
-- Model Deployment
+- [ ] Hyperparameter Tuning
+- [ ] XGBoost Model
+- [ ] LightGBM
+- [ ] Streamlit Web App
+- [ ] Model Deployment
 
 ---
 
@@ -181,4 +206,7 @@ Titanic_Survival.ipynb
 <p align="center">
 ⭐ If you found this project helpful, don't forget to Star the repository!
 </p>
-````
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:00BFFF&height=100&section=footer" width="100%"/>
+</p>

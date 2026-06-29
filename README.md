@@ -77,7 +77,6 @@ Each project tackles a different real-world problem using the full Data Science 
 
 ## 1️⃣ 🚢 Titanic Survival Prediction
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90">
 
 Predicts whether a passenger survived the Titanic disaster based on features like class, age, gender, and fare, using classification algorithms.
 
@@ -112,8 +111,6 @@ Predicts a movie's IMDb-style rating based on genre, director, and cast, using r
 ---
 
 ## 3️⃣ 💳 Credit Card Fraud Detection
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90">
 
 Detects fraudulent credit card transactions on a highly imbalanced dataset using classification models, with SMOTE/undersampling to handle class imbalance.
 

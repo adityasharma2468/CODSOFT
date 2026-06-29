@@ -92,11 +92,6 @@ Predicts whether a passenger survived the Titanic disaster based on features lik
 📁 [View Full Project →](./TITANIC-SURVIVAL-PREDICTION)
 
 ---
-## 🎥 Dashboard Demo
-
-![Dashboard Demo](./TITANIC-SURVIVAL-PREDICTION/titanic-analysis.png)
-
----
 
 ## 2️⃣ 🎬 Movie Rating Prediction
 

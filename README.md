@@ -52,21 +52,21 @@ Each project tackles a different real-world problem using the full Data Science 
   </tr>
   <tr>
     <td>1️⃣</td>
-    <td><a href="./Titanic-Survival-Prediction">🚢 Titanic Survival Prediction</a></td>
+    <td><a href="./TITANIC-SURVIVAL-PREDICTION">🚢 TITANIC SURVIVAL PREDICTION</a></td>
     <td>Classification</td>
     <td>Logistic Regression</td>
     <td><b>79.72%</b> Accuracy</td>
   </tr>
   <tr>
     <td>2️⃣</td>
-    <td><a href="./Movie-Rating-Prediction">🎬 Movie Rating Prediction</a></td>
+    <td><a href="./MOVIE-RATING-PREDICTION-WITH-PYTHON">🎬 MOVIE RATING PREDICTION WITH PYTHON</a></td>
     <td>Regression</td>
     <td>Random Forest Regressor</td>
     <td><b>0.82</b> R² Score</td>
   </tr>
   <tr>
     <td>3️⃣</td>
-    <td><a href="./Credit-Card-Fraud-Detection">💳 Credit Card Fraud Detection</a></td>
+    <td><a href="./CREDIT-CARD-FRAUD-DETECTION">💳 CREDIT CARD FRAUD DETECTION</a></td>
     <td>Classification (Imbalanced)</td>
     <td>Random Forest</td>
     <td><b>97.80%</b> Accuracy</td>
@@ -89,7 +89,7 @@ Predicts whether a passenger survived the Titanic disaster based on features lik
 | Logistic Regression | **79.72%** |
 | Random Forest | 78.32% |
 
-📁 [View Full Project →](./Titanic-Survival-Prediction)
+📁 [View Full Project →](./TITANIC-SURVIVAL-PREDICTION)
 
 ---
 
@@ -107,7 +107,7 @@ Predicts a movie's IMDb-style rating based on genre, director, and cast, using r
 | Linear Regression | 0.74 |
 | Random Forest Regressor | **0.82** |
 
-📁 [View Full Project →](./Movie-Rating-Prediction)
+📁 [View Full Project →](./MOVIE-RATING-PREDICTION-WITH-PYTHON)
 
 ---
 
@@ -125,7 +125,7 @@ Detects fraudulent credit card transactions on a highly imbalanced dataset using
 | Logistic Regression | 94.50% | 0.91 | 0.89 |
 | Random Forest | **97.80%** | 0.96 | 0.95 |
 
-📁 [View Full Project →](./Credit-Card-Fraud-Detection)
+📁 [View Full Project →](./CREDIT-CARD-FRAUD-DETECTION)
 
 ---
 
@@ -146,22 +146,20 @@ pie title Best Model Accuracy/Score Across Projects
 CodSoft-Data-Science-Internship/
 │
 ├── Titanic-Survival-Prediction/
-│   ├── dataset/
-│   ├── notebook/
-│   ├── images/
-│   └── README.md
+│   ├── app.py/
+│   ├── titanic-dataset.csv/
+│   └── Titanic_analysis.png/
+│  
 │
 ├── Movie-Rating-Prediction/
-│   ├── dataset/
-│   ├── notebook/
-│   ├── images/
-│   └── README.md
+│   ├── app.py/
+│   └── IMDB Movie India.csv/
 │
 ├── Credit-Card-Fraud-Detection/
-│   ├── dataset/
-│   ├── notebook/
-│   ├── images/
-│   └── README.md
+│   ├── add.py/
+│   ├── Credit Card.csv/
+│   └──fraud_analysis.png/
+│    
 │
 ├── requirements.txt
 └── README.md   ← (this file)
@@ -203,21 +201,11 @@ pip install -r requirements.txt
 
 # ▶️ Run Any Project
 
-**Option 1 — Using Jupyter Notebook**
-
 ```bash
-jupyter notebook
+Visual Studio Code
 ```
 
 Then open the relevant `.ipynb` file inside that project's `notebook/` folder.
-
-**Option 2 — Using Visual Studio Code**
-
-```bash
-code .
-```
-
-Open the relevant `.ipynb` file inside that project's `notebook/` folder, then run the cells using VS Code's built-in **Jupyter extension** (install it from the Extensions tab if not already installed).
 
 ---
 
@@ -235,11 +223,11 @@ Open the relevant `.ipynb` file inside that project's `notebook/` folder, then r
 
 <p align="center">
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/adityasharma2468">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/aditya-kumar-sharma-137503316?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -254,3 +242,4 @@ Open the relevant `.ipynb` file inside that project's `notebook/` folder, then r
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:8A2BE2,100:00BFFF&height=100&section=footer" width="100%"/>
 </p>
+

@@ -89,7 +89,7 @@ Predicts whether a passenger survived the Titanic disaster based on features lik
 | Logistic Regression | **79.72%** |
 | Random Forest | 78.32% |
 
-📁 [View Full Project →](./Titanic-Survival-Prediction)
+📁 [View Full Project →](./TITANIC-SURVIVAL-PREDICTION)
 
 ---
 
@@ -107,7 +107,7 @@ Predicts a movie's IMDb-style rating based on genre, director, and cast, using r
 | Linear Regression | 0.74 |
 | Random Forest Regressor | **0.82** |
 
-📁 [View Full Project →](./Movie-Rating-Prediction)
+📁 [View Full Project →](./MOVIE-RATING-PREDICTION-WITH-PYTHON)
 
 ---
 
@@ -125,7 +125,7 @@ Detects fraudulent credit card transactions on a highly imbalanced dataset using
 | Logistic Regression | 94.50% | 0.91 | 0.89 |
 | Random Forest | **97.80%** | 0.96 | 0.95 |
 
-📁 [View Full Project →](./Credit-Card-Fraud-Detection)
+📁 [View Full Project →](./CREDIT-CARD-FRAUD-DETECTION)
 
 ---
 
@@ -146,22 +146,20 @@ pie title Best Model Accuracy/Score Across Projects
 CodSoft-Data-Science-Internship/
 │
 ├── Titanic-Survival-Prediction/
-│   ├── dataset/
-│   ├── notebook/
-│   ├── images/
-│   └── README.md
+│   ├── app.py/
+│   ├── titanic-dataset.csv/
+│   └── Titanic_analysis.png/
+│  
 │
 ├── Movie-Rating-Prediction/
-│   ├── dataset/
-│   ├── notebook/
-│   ├── images/
-│   └── README.md
+│   ├── app.py/
+│   └── IMDB Movie India.csv/
 │
 ├── Credit-Card-Fraud-Detection/
-│   ├── dataset/
-│   ├── notebook/
-│   ├── images/
-│   └── README.md
+│   ├── add.py/
+│   ├── Credit Card.csv/
+│   └──fraud_analysis.png/
+│    
 │
 ├── requirements.txt
 └── README.md   ← (this file)
@@ -225,7 +223,7 @@ Then open the relevant `.ipynb` file inside that project's `notebook/` folder.
 
 <p align="center">
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/adityasharma2468">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 

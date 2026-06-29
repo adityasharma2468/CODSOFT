@@ -89,7 +89,7 @@ Predicts whether a passenger survived the Titanic disaster based on features lik
 | Logistic Regression | **79.72%** |
 | Random Forest | 78.32% |
 
-📁 [View Full Project →](./TITANIC-SURVIVAL-PREDICTION)
+📁 [View Full Project →](./TITANIC-SURVIVAL-PREDICTION/titanic-analysis.png)
 
 ---
 ## 🎥 Dashboard Demo

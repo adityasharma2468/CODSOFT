@@ -52,21 +52,21 @@ Each project tackles a different real-world problem using the full Data Science 
   </tr>
   <tr>
     <td>1️⃣</td>
-    <td><a href="./Titanic-Survival-Prediction">🚢 Titanic Survival Prediction</a></td>
+    <td><a href="./Titanic-Survival-Prediction">🚢 (./TITANIC-SURVIVAL-PREDICTION)</a></td>
     <td>Classification</td>
     <td>Logistic Regression</td>
     <td><b>79.72%</b> Accuracy</td>
   </tr>
   <tr>
     <td>2️⃣</td>
-    <td><a href="./Movie-Rating-Prediction">🎬 Movie Rating Prediction</a></td>
+    <td><a href="./Movie-Rating-Prediction">🎬 (./MOVIE-RATING-PREDICTION-WITH-PYTHON)</a></td>
     <td>Regression</td>
     <td>Random Forest Regressor</td>
     <td><b>0.82</b> R² Score</td>
   </tr>
   <tr>
     <td>3️⃣</td>
-    <td><a href="./Credit-Card-Fraud-Detection">💳 Credit Card Fraud Detection</a></td>
+    <td><a href="./Credit-Card-Fraud-Detection">💳 (./CREDIT-CARD-FRAUD-DETECTION)</a></td>
     <td>Classification (Imbalanced)</td>
     <td>Random Forest</td>
     <td><b>97.80%</b> Accuracy</td>
